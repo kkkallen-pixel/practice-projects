@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/book_manager?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+db.username=root
+db.password=你的密码

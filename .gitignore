@@ -1,0 +1,19 @@
+# Java
+out/
+*.class
+
+# 本地数据库配置（含密码），不要提交
+db.properties
+
+# Python
+__pycache__/
+*.pyc
+
+# 生成的整理结果
+整理结果.csv
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
