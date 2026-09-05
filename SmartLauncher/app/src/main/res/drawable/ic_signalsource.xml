@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SignalSource：信号源选择（显示器 + 输入箭头） -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M3,5 h18 v11 h-18 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M9,8 l4,2.5 l-4,2.5 z" />
+</vector>

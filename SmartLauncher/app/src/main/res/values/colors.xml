@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 背景渐变近似效果图色带 -->
+    <color name="bg_blue">#0100FB</color>
+    <color name="bg_purple">#8B47D0</color>
+    <color name="bg_red">#F70503</color>
+    <color name="bg_dark">#1B1533</color>
+
+    <!-- 文字 -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#E6FFFFFF</color>
+
+    <!-- 焦点 / 方块 -->
+    <color name="focus_fill">#33FFFFFF</color>
+    <color name="focus_stroke">#FFD54F</color>
+    <color name="tile_fill">#33FFFFFF</color>
+    <color name="tile_focused_fill">#4DFFD54F</color>
+
+    <!-- 启动图标 -->
+    <color name="ic_launcher_bg">#8B47D0</color>
+    <color name="ic_launcher_fg">#FFFFFF</color>
+</resources>

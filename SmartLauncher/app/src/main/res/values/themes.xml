@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主页 Launcher：无 ActionBar、全屏、横屏 -->
+    <style name="Theme.SmartLauncher" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@drawable/bg_launcher</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+    <!-- 全部应用列表子主题（显式继承主页主题） -->
+    <style name="Theme.SmartLauncher.AllApps" parent="Theme.SmartLauncher">
+        <item name="android:windowBackground">@drawable/bg_all_apps</item>
+    </style>
+</resources>

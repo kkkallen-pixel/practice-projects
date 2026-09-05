@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 启动图标：紫色圆角底 + 白色 2x2 应用方块 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="@color/ic_launcher_bg"
+        android:pathData="M4,4 h40 a4,4 0 0 1 4,4 v32 a4,4 0 0 1 -4,4 h-40 a4,4 0 0 1 -4,-4 v-32 a4,4 0 0 1 4,-4 z" />
+    <!-- 四宫格应用圆角方块 -->
+    <path android:fillColor="@color/ic_launcher_fg" android:pathData="M12,12 h9 v9 h-9 z" />
+    <path android:fillColor="@color/ic_launcher_fg" android:pathData="M27,12 h9 v9 h-9 z" />
+    <path android:fillColor="@color/ic_launcher_fg" android:pathData="M12,27 h9 v9 h-9 z" />
+    <path android:fillColor="@color/ic_launcher_fg" android:pathData="M27,27 h9 v9 h-9 z" />
+</vector>

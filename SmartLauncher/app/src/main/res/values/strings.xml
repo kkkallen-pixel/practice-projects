@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartLauncher</string>
+
+    <!-- 底部 5 个系统功能方块 -->
+    <string name="tile_keystone">Keystone</string>
+    <string name="tile_miracast">Miracast</string>
+    <string name="tile_signalsource">SignalSource</string>
+    <string name="tile_myapps">MyApps</string>
+    <string name="tile_settings">Settings</string>
+
+    <!-- 全部应用列表 -->
+    <string name="all_apps_title">全部应用</string>
+    <string name="all_apps_count">共 %1$d 个应用</string>
+
+    <!-- 提示 -->
+    <string name="empty_hint">未检测到已安装的应用</string>
+    <string name="app_launch_failed">无法打开该应用</string>
+    <string name="feature_not_ready">“%1$s”功能暂未适配（演示占位）</string>
+
+    <!-- 演示模式 -->
+    <string name="demo_off">演示模式：关</string>
+    <string name="demo_on">演示模式：开</string>
+    <string name="demo_not_installed">演示模式：%1$s 未安装</string>
+</resources>

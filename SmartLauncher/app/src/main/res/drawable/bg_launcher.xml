@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 主页背景：近似效果图色带的横向渐变（蓝 → 紫 → 红） -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="0"
+        android:startColor="@color/bg_blue"
+        android:centerColor="@color/bg_purple"
+        android:endColor="@color/bg_red" />
+</shape>
